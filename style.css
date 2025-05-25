@@ -1,3 +1,19 @@
 body{
-    background-color: #e7e7e7;
+    background-color: #021526;
+}
+
+p{
+    color: white;
+}
+
+h1{
+    color: white;
+}
+
+h2{
+    color: white;
+}
+
+.card-text{
+    color: black;
 }
